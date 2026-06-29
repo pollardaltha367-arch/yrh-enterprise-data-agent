@@ -1,0 +1,7 @@
+﻿table,rows,columns,duplicated_rows,missing_cells
+inventory,40,4,0,0
+marketing,720,6,0,0
+orders,4200,10,0,0
+products,40,6,0,0
+reviews,1400,5,0,0
+users,600,5,0,0
